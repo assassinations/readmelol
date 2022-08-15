@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.gg/QnZNMzZpfZ">.gg/alexlol</a></h2>
+<h2 align="center">Discord <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Server -  <a href="https://discord.bmx">.gg/creation</a></h2>
 <!-- BUTTONS -->
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/assassinations?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
