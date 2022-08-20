@@ -7,3 +7,25 @@
 </p> -->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/583783530664820793)](https://discord.com/users/583783530664820793)
+
+
+```py
+from GitHub import ReadMe
+
+class creation(ReadMe):
+    "/assassinations/readmelol/README.md"
+
+    def __init__(self):
+        self.username = "creation"
+        self.contacts = {
+            "Discord": "creation#0001",
+            "Telegram": "coming soon..."
+        }
+        self.alises = [
+            "creation",
+            ""
+        ]
+        self.location = "Ireland"
+        self.age = "14, Born 11 September 2007"
+        self.occupation = "Freelance Developer"
+        self.operating_system = "windows, Linux"
