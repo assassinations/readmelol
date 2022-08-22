@@ -13,7 +13,7 @@
 from GitHub import ReadMe
 
 class creation(ReadMe):
-    "https://github.com/assassinations/readmelol/README.md"
+    "(https://github.com/assassinations/readmelol/blob/main/README.md)"
 
     def __init__(self):
         self.username = "creation"
