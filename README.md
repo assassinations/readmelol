@@ -25,7 +25,7 @@ class creation(ReadMe):
             "creation",
             ""
         ]
-        self.location = "Ireland"
-        self.age = "14, Born 11 September 2007"
-        self.occupation = "Freelance Developer"
-        self.operating_system = "windows, Linux"
+        self.location = "heaven"
+        self.age = "unknown"
+        self.occupation = "all seeing eye"
+        self.operating_system = "windows,iphone"
